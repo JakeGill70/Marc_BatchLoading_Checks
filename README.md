@@ -10,3 +10,5 @@ Plan to add automated updates to the MARC file where possible. It would also be 
 
 If you'd like more info on this, please contact me at 
 ethanfenichel at gmail dot com or on Twitter at @ethandf
+
+Sorry guy, you were randomly picked as an example for a class at ETSU.
